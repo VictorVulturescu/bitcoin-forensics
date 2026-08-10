@@ -1,0 +1,34 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Dataset files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.zip
+
+# Generated outputs
+outputs/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# macOS
+.DS_Store
