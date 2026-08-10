@@ -22,13 +22,5 @@ data/
 *.xlsx
 *.zip
 
-# Generated outputs
-outputs/
-figures/
-*.png
-*.jpg
-*.jpeg
-*.pdf
-
 # macOS
 .DS_Store
