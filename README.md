@@ -1,6 +1,11 @@
 # BitCoin Forensics
 **Bitcoin Forensics: Detecting Ransomware Addresses with a Perceptron Network**
-Title subject to change.
+
+# Members
+
+Our GitHub Profiles 
+[Vulturescu Victor Cristian](https://github.com/VictorVulturescu)
+[Druică Denisa-Adina](https://github.com/Adinusha).
 
 # Description
 This is a project for the Machine Learning course at IP Workshop Summer School 2026.
